@@ -1,6 +1,6 @@
 # ai-games
 
 ## Games:
-[x] flappy bird
-[]
-[]
+- [x] flappy bird
+- [ ] ...
+- [ ] ...
